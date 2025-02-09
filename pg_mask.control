@@ -1,0 +1,14 @@
+# Default version
+default_version = '1.0.0'
+
+# Description
+comment = 'A tiny data mask utility written in C'
+
+# Module reference
+module_pathname = '$libdir/pg_mask'
+
+# Is relocatable extension?
+relocatable = false
+
+# Required superuser?
+superuser = false
